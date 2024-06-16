@@ -25,16 +25,17 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
   <!-- <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /></a> -->
   <!-- Bootstrap Icon and Link -->
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /></a>
-<!-- Tailwind CSS Icon and Link -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <!-- Tailwind CSS Icon and Link -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36"   
+  alt="TailwindCSS" /></a>
   <!-- D3.js Icon and Link -->
   <!-- <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js" /></a> -->
   <!-- Bulma CSS Icon and Link -->
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40" height="40" alt="Bulma CSS" /></a>
   <!-- Chakra UI Icon and Link -->
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI" />
-</a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI" /></a>
 </p>
 
 ## Backend & Databases
