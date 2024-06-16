@@ -93,18 +93,19 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
 
 ## GitHub Activity
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=badrulborhanudin&theme=vue-dark" width="400" height="200" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=badrulborhanudin&theme=vue-dark" width="330" height="200" alt="GitHub Streak"/>
   </a>
-
   <a href="https://github.com/badrulborhanudin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=badrulborhanudin&theme=vue-dark" width="400" height="200" alt="Badrul's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=badrulborhanudin&theme=vue-dark" width="300" height="200" alt="Badrul's GitHub stats"/>
   </a>
-
   <a href="https://github.com/badrulborhanudin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrulborhanudin&layout=compact&theme=vue-dark" width="400" height="200" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrulborhanudin&layout=compact&theme=vue-dark" width="260" height="200" alt="Top Langs"/>
   </a>
+</div>
+<div align="left">
+  
 </div>
 
 ## Contact
