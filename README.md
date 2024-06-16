@@ -1,8 +1,4 @@
-## Hi there 👋
-
 # Welcome to My GitHub Profile!
-
-![Header Image](path_to_your_header_image)
 
 ## About Me
 I am a passionate full stack web developer with experience in MERN stack, React, Node.js, MongoDB, and more. I love creating efficient and user-friendly applications.
