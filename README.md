@@ -8,16 +8,12 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
 ## Skills
 <div align="center">
   <a href="https://github.com/badrulborhanudin/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=badrulborhanudin&show_icons=true&theme=codeSTACKr"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=badrulborhanudin&show_icons=true&theme=codeSTACKr" style="display: inline-block;"/>
   </a>
-    
-## 
-    
   <a href="https://github.com/badrulborhanudin/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrulborhanudin&theme=codeSTACKr&layout=compact&langs_count=8&card_width=320"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrulborhanudin&theme=codeSTACKr&layout=compact&langs_count=8&card_width=320" style="display: inline-block;"/>
   </a>
 </div>
-
 
 ## Contact
 - Email: [badrulborhanudin@gmail.com](mailto:badrulborhanudin@gmail.com)
