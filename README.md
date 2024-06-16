@@ -114,3 +114,15 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
 - Email: [badrulborhanudin@gmail.com](mailto:badrulborhanudin@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/badrul-b-2968402b2/](https://www.linkedin.com/in/badrul-b-2968402b2/)
 - GitHub: [github.com/badrulborhanudin](https://github.com/badrulborhanudin)
+
+<!-- theme available -->
+<!-- dark
+radical
+merko
+gruvbox
+tokyonight
+onedark
+cobalt
+synthwave
+highcontrast
+dracula -->
