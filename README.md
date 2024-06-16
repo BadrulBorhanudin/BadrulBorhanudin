@@ -32,6 +32,7 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
   <!-- Bulma CSS Icon and Link -->
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40" height="40" alt="Bulma CSS" /></a>
   <!-- Chakra UI Icon and Link -->
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI" /></a>
 </p>
 
 ## Backend & Databases
