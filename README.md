@@ -81,7 +81,7 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
   <a href="https://render.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="40" height="40" alt="Render" /></a>
   <!-- Netlify Icon and Link -->
   <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" width="40" height="40" alt="Netlify" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
 </a>
   <!-- Ethereum Icon and Link -->
   <!-- <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a> -->
