@@ -97,9 +97,13 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=badrulborhanudin&theme=radical" alt="GitHub Streak"/>
   </a>
+</div>
+<div align="left">
   <a href="https://github.com/badrulborhanudin/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=badrulborhanudin&theme=tokyonight" alt="Badrul's GitHub stats"/>
   </a>
+</div>
+<div align="left">
   <a href="https://github.com/badrulborhanudin/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrulborhanudin&layout=compact&theme=merko" alt="Top Langs"/>
   </a>
