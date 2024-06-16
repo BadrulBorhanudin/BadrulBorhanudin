@@ -77,6 +77,10 @@ Now, having graduated from a bootcamp, I am eager to transition into a career in
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="CLI" /></a>
   <!-- Heroku Icon and Link -->
   <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" /></a>
+  <!-- Render Icon and Link -->
+  <a href="https://render.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="40" height="40" alt="Render" /></a>
+  <!-- Netlify Icon and Link -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-colored.svg" width="40" height="40" alt="Netlify" /></a>
   <!-- Ethereum Icon and Link -->
   <!-- <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a> -->
   <!-- WordPress Icon and Link -->
